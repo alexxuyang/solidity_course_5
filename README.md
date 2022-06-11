@@ -24,43 +24,29 @@
 https://testnet.arbiscan.io/tx/0xe36a5df65b42777bb3149ce6b498efee066b893427e7e5dbb22dcf7f5be40bec
 https://testnet.arbiscan.io/address/0x0d2f271808b6344013cce4446e5402fb78e1c725
 
-mint操作： 
-
-operate account: 0xBD3d736107744B3429081597b8A920CB69cad541 
-
-receive account：0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc 
-
-amount: 1000000 
-
+mint操作：
+operate account: 0xBD3d736107744B3429081597b8A920CB69cad541\
+receive account：0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc\
+amount: 1000000\
 hash: https://testnet.arbiscan.io/tx/0x53b1c981fe75e2f714e7b074c87aa01f672c3b2bf91b4c921d1fe45a700a5bc4
 
 
-burn操作：
-
-operator account: 0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc
-
-amount: 1000
-
+burn操作：\
+operator account: 0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc\
+amount: 1000\
 hash: https://testnet.arbiscan.io/tx/0xa0f3157f97029208eb0aa55622b220866a3d4b75424caac39bfe4bd6b9df3fbe
 
 
-transfer:
-
-from account: 0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc
-
-to account: 0x1087D9a0FbCb9B0402e2D657669c0E099EF0245c
-
-amount: 1500
-
+transfer:\
+from account: 0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc\
+to account: 0x1087D9a0FbCb9B0402e2D657669c0E099EF0245c\
+amount: 1500\
 hash: https://testnet.arbiscan.io/tx/0x62f5b3b040d8295a831c3eb5d7c82f1e0716230a54758d7087a1b05daddabd44
 
 
-设置fee：
-
-operator account: 0xBD3d736107744B3429081597b8A920CB69cad541
-
-fee: 1000
-
+设置fee：\
+operator account: 0xBD3d736107744B3429081597b8A920CB69cad541\
+fee: 1000\
 hash: https://testnet.arbiscan.io/tx/0x28a82e9671964f4ee99fafd3831c9b9df6e8d137eb9007f3f74d88a3ecc86da0
 
 
