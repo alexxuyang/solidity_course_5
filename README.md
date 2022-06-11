@@ -24,7 +24,7 @@
 https://testnet.arbiscan.io/tx/0xe36a5df65b42777bb3149ce6b498efee066b893427e7e5dbb22dcf7f5be40bec
 https://testnet.arbiscan.io/address/0x0d2f271808b6344013cce4446e5402fb78e1c725
 
-mint操作：
+mint操作：\
 operate account: 0xBD3d736107744B3429081597b8A920CB69cad541\
 receive account：0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc\
 amount: 1000000\
