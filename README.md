@@ -64,32 +64,22 @@ fee: 1000
 hash: https://testnet.arbiscan.io/tx/0x28a82e9671964f4ee99fafd3831c9b9df6e8d137eb9007f3f74d88a3ecc86da0
 
 
-设置burnAmount：
-
-operator account: 0xBD3d736107744B3429081597b8A920CB69cad541
-
-burnAmount: 100
-
+设置burnAmount：\
+operator account: 0xBD3d736107744B3429081597b8A920CB69cad541\
+burnAmount: 100\
 hash: https://testnet.arbiscan.io/tx/0x187b91c94bf5f3c7c6d1ed9f1ddeef315053e23784740b4a1323dd3b362fa916
 
 
-设置feeCollector：
-
-operator account: 0xBD3d736107744B3429081597b8A920CB69cad541
-
-feeCollector: 0x67C19CCDB7f5A94030a220C08B2C2311F759D072
-
+设置feeCollector：\
+operator account: 0xBD3d736107744B3429081597b8A920CB69cad541\
+feeCollector: 0x67C19CCDB7f5A94030a220C08B2C2311F759D072\
 hash: https://testnet.arbiscan.io/tx/0xeb833287513ff0bf10d8f3cdc6697228899f0644efaa8e1fdd2f721f3140cb3f
 
 
-transfer:
-
-from account: 0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc
-
-to account: 0x1087D9a0FbCb9B0402e2D657669c0E099EF0245c
-
-amount: 100000
-
+transfer:\
+from account: 0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc\
+to account: 0x1087D9a0FbCb9B0402e2D657669c0E099EF0245c\
+amount: 100000\
 hash: https://testnet.arbiscan.io/tx/0xd32d450f96fb13bbf346b695cb26af0361eac6916767fc671de069dd83c93b37
 
 
