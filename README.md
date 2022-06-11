@@ -24,10 +24,10 @@
 https://testnet.arbiscan.io/tx/0xe36a5df65b42777bb3149ce6b498efee066b893427e7e5dbb22dcf7f5be40bec
 https://testnet.arbiscan.io/address/0x0d2f271808b6344013cce4446e5402fb78e1c725
 
-mint操作：
-operate account: 0xBD3d736107744B3429081597b8A920CB69cad541
-receive account：0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc
-amount: 1000000
+mint操作： 
+operate account: 0xBD3d736107744B3429081597b8A920CB69cad541 
+receive account：0xBc461fA713b5EeAc7BE790bF4a1A1C7bBa6332dc 
+amount: 1000000 
 hash: https://testnet.arbiscan.io/tx/0x53b1c981fe75e2f714e7b074c87aa01f672c3b2bf91b4c921d1fe45a700a5bc4
 
 burn操作：
