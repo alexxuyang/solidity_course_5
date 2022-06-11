@@ -21,6 +21,7 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 const privateKey = process.env.privateKey;
 const infuraId = process.env.infuraId;
+const arbitrumRinkebyInfuraId = process.env.arbitrumRinkebyInfuraId;
 
 //
 // const fs = require('fs');
@@ -42,6 +43,12 @@ module.exports = {
       provider: () => new HDWalletProvider(privateKey, `https://rinkeby.infura.io/v3/` + infuraId),
       network_id: 4,
       gas: 5500000,
+      gasPrice: 1500000000
+    },
+    arbitrumRinkeby: {
+      provider: () => new HDWalletProvider(privateKey, `https://arbitrum-rinkeby.infura.io/v3/` + arbitrumRinkebyInfuraId),
+      network_id: 421611,
+      gas: 200000000,
       gasPrice: 1500000000
     },
     // Useful for testing. The `development` name is special - truffle uses it by default
@@ -110,7 +117,8 @@ module.exports = {
   ],
 
   api_keys: {
-    etherscan: process.env.etherScanAPIKey
+    etherscan: process.env.etherScanAPIKey,
+    arbiscan: process.env.etherScanAPIKey
   }
 
   // Truffle DB is currently disabled by default; to enable it, change enabled:
