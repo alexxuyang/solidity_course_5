@@ -15,3 +15,13 @@
 - totalSupply = totalSupply - burnAmount
 
 测试案例文件是[ExtendedERC20.js](https://github.com/alexxuyang/solidity_course_5/blob/main/test/ExtendedERC20.js)
+
+核心的测试代码如下：
+
+![测试代码](https://github.com/alexxuyang/solidity_course_5/blob/main/images/001.png)
+
+部署在rinkeby的合约地址为：
+https://rinkeby.etherscan.io/address/0x73a0c96e3471ad9D6615e054e62FD4f9663136c6
+
+该合约已经完成了代码verify，使用了工具：truffle-plugin-verify
+https://rinkeby.etherscan.io/address/0x73a0c96e3471ad9d6615e054e62fd4f9663136c6#code
