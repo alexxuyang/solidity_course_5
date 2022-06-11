@@ -20,6 +20,10 @@
 
 ![测试代码](https://github.com/alexxuyang/solidity_course_5/blob/main/images/001.png)
 
+本地测试通过截图：
+
+![测试截图](https://github.com/alexxuyang/solidity_course_5/blob/main/images/004.png)
+
 部署在arbitrum rinkeby的合约地址为：
 https://testnet.arbiscan.io/tx/0xe36a5df65b42777bb3149ce6b498efee066b893427e7e5dbb22dcf7f5be40bec
 https://testnet.arbiscan.io/address/0x0d2f271808b6344013cce4446e5402fb78e1c725
